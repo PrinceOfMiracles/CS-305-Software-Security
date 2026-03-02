@@ -37,7 +37,7 @@ For future employers, I would show my completed vulnerability assessment report 
 
 ---
 
-## References (APA 7)
+## References
 
 Iron-Clad Java. (n.d.). *Secure software development lifecycle*.
 
